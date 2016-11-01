@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Site </title>
-    <link>https://github.com/djhojd/hugo-quickstart/post/index.xml</link>
+    <link>https://djhojd.github.io/hugo-quickstart/post/index.xml</link>
     <language>en-us</language>
     <author>Claudiu Hojda</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Good to Great Title</title>
-          <link>https://github.com/djhojd/hugo-quickstart/post/book1/</link>
+          <link>https://djhojd.github.io/hugo-quickstart/post/book1/</link>
           <pubDate>Tue, 01 Nov 2016 16:04:08 EET</pubDate>
           <author>Claudiu Hojda</author>
-          <guid>https://github.com/djhojd/hugo-quickstart/post/book1/</guid>
+          <guid>https://djhojd.github.io/hugo-quickstart/post/book1/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
         </item>
